@@ -1,9 +1,0 @@
-# This is some java code for Today
-public void file{
-public static void main( string args[] )
-{
-System.out.println("This is a sample java code");
-}
-
-}
-
