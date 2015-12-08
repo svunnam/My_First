@@ -1,0 +1,4 @@
+# Testing git is working by using git clone method.!!
+# Author Name: Sivakumar 
+# Date: 12/07/2015
+# Repository: My_First
